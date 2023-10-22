@@ -7,14 +7,20 @@ const Testimonials = () => {
           <div>
             <p>
               <span className="quote">
-                " I worked with Steven, he was very helpful and fast to respond
-                to my inquiry to help with Wordpress website issues and all
-                technical problems. "
+                " With over 12 years of working as a senior leader in different
+                companies, and have worked on my personal projects, I’m
+                confident about my professional skills, unique sense of beauty
+                and my soft skills what has helped me impress my networking by
+                putting my heart and soul into every single task that I am
+                incharge, and learn how we want to work effectively and develop
+                ourselves; carefulness is very important. "
               </span>
-              <span className="person">Jasmin Aniston</span>
-              <span className="job">Director - Adobe</span>
+              <span className="person">Anh Xuan</span>
+              <span className="job">
+                Global trade - Management - Trainer Senior Trader
+              </span>
             </p>
-            <img src="assets/testimonials/testimonial-1.jpg" alt="" />
+            <img src="assets/testimonials/testmonial.jpg" alt="" />
           </div>
         </div>
         {/* TESTIMONIAL ITEM ENDS */}
@@ -23,14 +29,15 @@ const Testimonials = () => {
           <div>
             <p>
               <span className="quote">
-                " Steven is a great help managing a very out of date website.
-                Everything we ask him to do is done quickly and efficiently, we
-                would be lost without him. "
+                " My missions are helping you to make the right choices, give
+                you more power to gain your success: ‘Nothing is impossible.’ "
               </span>
-              <span className="person">Mark Eliott</span>
-              <span className="job">Manager - Envato</span>
+              <span className="person">Anh Xuan</span>
+              <span className="job">
+                Global trade - Management - Trainer Senior Trader
+              </span>
             </p>
-            <img src="assets/testimonials/testimonial-2.jpg" alt="" />
+            <img src="assets/testimonials/testmonial.jpg" alt="" />
           </div>
         </div>
         {/* TESTIMONIAL ITEM ENDS */}

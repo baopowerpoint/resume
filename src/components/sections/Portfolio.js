@@ -13,7 +13,7 @@ const Portfolio = () => {
         <h3>
           <span>
             <span className="animated-layer fade-in-left-animation fadeInUp wow">
-              My Portfolio
+              Personal projects
             </span>
           </span>
         </h3>
@@ -38,32 +38,26 @@ const Portfolio = () => {
           {/* ITEM MAIN CONTENT ENDS */}
           {/* ITEM DETAILS STARTS */}
           <div className="details">
-            <h4>Image Project</h4>
+            <h4>Shareholder of Houjicha</h4>
             <div>
               <ul>
                 <li>
                   <span>
                     <i className="fa-regular fa-file-lines" /> Project :
                   </span>
-                  <span>Website</span>
+                  <span>Milktea branches</span>
                 </li>
                 <li>
                   <span>
                     <i className="fa-regular fa-user" /> Client :
                   </span>
-                  <span>Envato</span>
+                  <span>client name</span>
                 </li>
                 <li>
                   <span>
                     <i className="fa-regular fa-hourglass" /> Duration :
                   </span>
                   <span>3 months</span>
-                </li>
-                <li>
-                  <span>
-                    <i className="fa-solid fa-code-branch" /> Frameworks :
-                  </span>
-                  <span>WordPress</span>
                 </li>
               </ul>
             </div>
@@ -91,32 +85,26 @@ const Portfolio = () => {
           {/* ITEM MAIN CONTENT ENDS */}
           {/* ITEM DETAILS STARTS */}
           <div className="details">
-            <h4>Youtube Project</h4>
+            <h4>Shareholder of The campville </h4>
             <div>
               <ul>
                 <li>
                   <span>
                     <i className="fa-regular fa-file-lines" /> Project :
                   </span>
-                  <span>Short Film</span>
+                  <span>Hospitality</span>
                 </li>
                 <li>
                   <span>
                     <i className="fa-regular fa-user" /> Client :
                   </span>
-                  <span>Videohive</span>
+                  <span>client name</span>
                 </li>
                 <li>
                   <span>
                     <i className="fa-regular fa-hourglass" /> Duration :
                   </span>
                   <span>8 months</span>
-                </li>
-                <li>
-                  <span>
-                    <i className="fa-solid fa-code-branch" /> Frameworks :
-                  </span>
-                  <span>After Effects</span>
                 </li>
               </ul>
             </div>
@@ -152,32 +140,26 @@ const Portfolio = () => {
           {/* ITEM MAIN CONTENT ENDS */}
           {/* ITEM DETAILS STARTS */}
           <div className="details">
-            <h4>Slider Project</h4>
+            <h4>Shareholder of Eden fashion </h4>
             <div>
               <ul>
                 <li>
                   <span>
                     <i className="fa-regular fa-file-lines" /> Project :
                   </span>
-                  <span>Mobile App</span>
+                  <span>Fashion</span>
                 </li>
                 <li>
                   <span>
                     <i className="fa-regular fa-user" /> Client :
                   </span>
-                  <span>Codecanyon</span>
+                  <span>client name</span>
                 </li>
                 <li>
                   <span>
                     <i className="fa-regular fa-hourglass" /> Duration :
                   </span>
                   <span>3 months</span>
-                </li>
-                <li>
-                  <span>
-                    <i className="fa-solid fa-code-branch" /> Frameworks :
-                  </span>
-                  <span>React JS</span>
                 </li>
               </ul>
             </div>
@@ -209,32 +191,26 @@ const Portfolio = () => {
           {/* ITEM MAIN CONTENT ENDS */}
           {/* ITEM DETAILS STARTS */}
           <div className="details">
-            <h4>External Link</h4>
+            <h4>Shop Anh Xuan</h4>
             <div>
               <ul>
                 <li>
                   <span>
                     <i className="fa-regular fa-file-lines" /> Project :
                   </span>
-                  <span>Advertising</span>
+                  <span>Stationary store</span>
                 </li>
                 <li>
                   <span>
                     <i className="fa-regular fa-user" /> Client :
                   </span>
-                  <span>Envato</span>
+                  <span>client name</span>
                 </li>
                 <li>
                   <span>
                     <i className="fa-regular fa-hourglass" /> Duration :
                   </span>
                   <span>1 month</span>
-                </li>
-                <li>
-                  <span>
-                    <i className="fa-solid fa-code-branch" /> Frameworks :
-                  </span>
-                  <span>Adobe Premiere</span>
                 </li>
               </ul>
             </div>

@@ -1,5 +1,5 @@
 /* =================================================================== */
-/* YELLOW #ffb400
+/* YELLOW #ffffff
 ====================================================================== */
 
 .home > div h1 > span:first-child span span,
@@ -19,7 +19,7 @@ header .header-inner .menu ul li span:hover,
 .mCSB_dragger_bar:after,
 header .header-inner .mail p span,
 .main-post .meta i {
-    color: #ffb400;
+  color: #ffffff;
 }
 .home .cta,
 .nav-item,
@@ -30,14 +30,16 @@ header .header-inner .menu ul li span:before,
 .nav-item:hover,
 .category,
 .clients .swiper-pagination-bullet.swiper-pagination-bullet-active,
-.portfolio .single-item .swiper-pagination-bullet.swiper-pagination-bullet-active,
+.portfolio
+  .single-item
+  .swiper-pagination-bullet.swiper-pagination-bullet-active,
 .timeline ol li > div > div > span,
 .timeline ol li:not(:last-child)::after,
 .blog-page .page-item.active .page-link,
 .blog-page .page-item .page-link:hover {
-    background-color: #ffb400;
+  background-color: #ffffff;
 }
 
-.home>div>div h1 > span > span > span {
-    text-shadow: 8px 8px #ffb400, 20px 20px #222;
-}
+/* .home > div > div h1 > span > span > span {
+  text-shadow: 8px 8px #ffffff, 20px 20px #222;
+} */

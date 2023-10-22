@@ -429,6 +429,7 @@ ul {
 }
 
 .animated-btn span {
+  color: #000 !important;
   display: block;
   -webkit-transition: 1s;
   transition: 1s;
@@ -462,7 +463,7 @@ ul {
 
 .animated-btn span:after {
   left: -60px;
-  color: #fff;
+  color: #000;
 }
 
 /* [ HEADER ] */
@@ -809,7 +810,7 @@ header .mobile-menu {
 .about .timeline ol li:not(:last-child)::after {
   content: "";
   position: absolute;
-  top: 50%;
+  top: 0px;
   left: calc(100% + 3px);
   bottom: 0;
   width: 12px;
@@ -894,7 +895,11 @@ header .mobile-menu {
 
 .about .timeline ol li:nth-child(odd) > div {
   top: -40px;
-  margin-top: calc(-100% - 16px);
+  margin-top: calc(-150% - 16px);
+}
+.about .timeline ol li:nth-child(3) > div {
+  top: -40px;
+  margin-top: calc(-160% - 16px);
 }
 
 .about .timeline ol li:nth-child(odd) > div::before {
